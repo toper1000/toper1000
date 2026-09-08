@@ -25,8 +25,10 @@ Currently, I am studying Software Engineering at Igor Sikorsky KPI and recently 
 ### 📊 GitHub Activity
 *(Note: I actively use private repositories for team projects and NDA work)*
 
-[![Denys's GitHub stats](https://github-readme-stats.vercel.app/api?username=toper1000&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=toper1000&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=toper1000&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toper1000&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+</p>
 
 ### 📫 Let's Connect
 
