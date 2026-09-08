@@ -22,14 +22,6 @@ Currently, I am studying Software Engineering at Igor Sikorsky KPI and recently 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 
-### 📊 GitHub Activity
-*(Note: I actively use private repositories for team projects and NDA work)*
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=toper1000&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toper1000&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
-</p>
-
 ### 📫 Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/denys-hnydiuk](https://linkedin.com/in/denys-hnydiuk-7a8a94432)
