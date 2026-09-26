@@ -29,4 +29,4 @@ Currently, I am studying Software Engineering at Igor Sikorsky KPI and recently 
 - **Languages:** English (C1 Advanced), Ukrainian (Native), German (B1)
 
 ---
-*Open to Remote Junior/Middle Full-Stack Developer positions.*
+*Open to Remote Junior Full-Stack Developer positions.*
