@@ -1,6 +1,6 @@
 # Hi there, I'm Denys 👋
 
-I am a Full-Stack Software Engineer specialized in building scalable web applications using the modern JavaScript/TypeScript ecosystem. With a strong analytical background (International Mathematical Olympiad medalist) and hands-on experience in full-cycle development, I focus on writing clean, maintainable code and solving complex architectural challenges.
+I am a Full-Stack Software Engineer specialized in building scalable web applications using the modern JavaScript/TypeScript ecosystem. With a strong analytical background (1st place in Ukraine, International Championship of Mathematical and Logical Games) and hands-on experience in full-cycle development, I focus on writing clean, maintainable code and solving complex architectural challenges.
 
 Currently, I am studying Software Engineering at Igor Sikorsky KPI and recently engineered a comprehensive web platform for my university's faculty.
 
