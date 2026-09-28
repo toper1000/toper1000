@@ -26,7 +26,7 @@ Currently, I am studying Software Engineering at Igor Sikorsky KPI and recently 
 
 - **LinkedIn:** [linkedin.com/in/denys-hnydiuk](https://www.linkedin.com/in/denys-hnydiuk/)
 - **Email:** denys.hnydiuk.dev@gmail.com
-- **Languages:** English (C1 Advanced), Ukrainian (Native), German (B1)
+- **Languages:** English (C1 Advanced), Ukrainian (Native), German (A2-B1)
 
 ---
 *Open to Remote Junior Full-Stack Developer positions.*
