@@ -15,7 +15,7 @@
 
 ### 🙋 About me
 
-- 🚀 Co-built and launched **[fice-sc.kpi.ua](https://fice-sc.kpi.ua)**, the platform of my faculty's student council: 60+ students applied to join the council through it within days of launch.
+- 🚀 Co-built and launched **[fice-sc.kpi.ua](https://fice-sc.kpi.ua)**, the platform of my faculty's student council: 100+ students applied to join the council through it within days of launch.
 - 🛠️ Deployed it to production myself: Ubuntu server, Docker Compose, Caddy with HTTPS.
 - 🤖 I build with Claude Code every day and review and test everything it writes.
 - 💼 Open to remote **Junior Full-Stack / Frontend** roles.
